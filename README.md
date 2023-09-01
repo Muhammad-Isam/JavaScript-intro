@@ -1,2 +1,1 @@
 # JavaScript-intro
-# JavaScript-intro
